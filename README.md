@@ -1,2 +1,4 @@
-# Magazine
-Learn CSS Grid by Building a Magazine
+# freeCodeCamp
+## Learn CSS Grid by Building a Magazine
+![](ss.png)
+* [Live Site URL]()
